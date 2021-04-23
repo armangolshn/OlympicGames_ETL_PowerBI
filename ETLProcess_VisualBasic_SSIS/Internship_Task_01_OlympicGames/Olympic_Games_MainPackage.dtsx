@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/24/2021 12:04:40 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ARGL"
+  DTS:CreatorName="ARGL\arman"
+  DTS:DTSID="{B317F57C-423E-45DE-8B7C-89F403EAEECE}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.157"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{426E6454-DDBE-46D7-8F6F-B2D2CB542D0C}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

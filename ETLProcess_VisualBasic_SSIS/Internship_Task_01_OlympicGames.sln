@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Internship_Task_01_OlympicGames", "Internship_Task_01_OlympicGames\Internship_Task_01_OlympicGames.dtproj", "{07DD057F-CC85-4BEB-A253-3E401BE373A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DD057F-CC85-4BEB-A253-3E401BE373A0}.Development|Default.ActiveCfg = Development
+		{07DD057F-CC85-4BEB-A253-3E401BE373A0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245E2723-41E7-4939-92EA-361D62E08D0F}
+	EndGlobalSection
+EndGlobal
